@@ -1,3 +1,6 @@
-CNN Architectures/data.parquet
-CNN Architectures/model.weights.best.keras
-CNN Architectures/run1.parquet
+CNN Architectures/Task II/data.parquet
+CNN Architectures/Task II/model.weights.best.keras
+CNN Architectures/Task II/run1.parquet
+CNN Architectures/Task II/set0.parquet
+CNN Architectures/Task III/gun0_chunk_0.parquet
+CNN Architectures/Task III/model.pth
